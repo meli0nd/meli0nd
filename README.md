@@ -26,3 +26,5 @@ Chat me on:
 ![MAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) jet_li45@mail.ru / nikoefremov45@gmail.com
 
 Or on one of the social medias in my profile
+
+My ![CV](https://github.com/meli0nd/meli0nd/blob/main/Efremov%20Nikita%20Evgenyevich.pdf)
