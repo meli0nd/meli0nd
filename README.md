@@ -1,4 +1,4 @@
-![Header](https://wallpapercave.com/wp/wp7717992.png)
+![Header](https://tse2.mm.bing.net/th?id=OIP.ceRRzDPtki5UmRyFmvxZ0wHaD4&pid=15.1)
 
 Hello! I am Nikita 👋🏼
 A beginner developer with glowing eyes and goals for the future. Focused on Frontend development.
