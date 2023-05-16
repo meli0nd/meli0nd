@@ -20,4 +20,7 @@ A beginner developer with glowing eyes and goals for the future. Focused on Fron
 
 
 Chat me on:
+
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) @DiFWhat
+
+Or on one of the social medias in my profile
