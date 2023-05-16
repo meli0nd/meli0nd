@@ -1,4 +1,4 @@
-![Header](https://tse2.mm.bing.net/th?id=OIP.ceRRzDPtki5UmRyFmvxZ0wHaD4&pid=15.1)
+![Header](https://img.51miz.com/Element/00/81/11/95/71d9dc20_E811195_5a1df939.jpg!/quality/90/unsharp/true/compress/true/format/jpg)
 
 Hello! I am Nikita 👋🏼
 A beginner developer with glowing eyes and goals for the future. Focused on Frontend development.
