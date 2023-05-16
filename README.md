@@ -27,4 +27,4 @@ Chat me on:
 
 Or on one of the social medias in my profile
 
-My ![CV](https://github.com/meli0nd/meli0nd/blob/main/Efremov%20Nikita%20Evgenyevich.pdf)
+My [CV](https://github.com/meli0nd/meli0nd/blob/main/Efremov%20Nikita%20Evgenyevich.pdf)
